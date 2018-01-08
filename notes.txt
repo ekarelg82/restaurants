@@ -1,0 +1,26 @@
+GRAPHQL vs REST
+
+GRAPHQL
+- one route
+- not based on http verbs
+- strict data typing
+- interactive docs
+- works well with a component architecture
+- advanced data resolving
+
+REST
+- many routes
+- based on http verbs
+- cacheable on a network level
+
+final node.js project
+- have a dataset to work with
+- google "mongodb test database"
+- REST API using express, mongoose
+- implement CRUD
+- once completed implement front-end
+- front-end must implement full CRUD
+- due Sunday 19th @ midnight
+
+localhost/projects/restaurant
+limit 20

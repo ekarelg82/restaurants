@@ -1,0 +1,28 @@
+body{
+    color: #666;
+    font-family: Georgia;
+}
+
+a{
+    text-decoration: none;
+    color: #666;
+}
+
+.title{
+    text-align: center;
+}
+
+.search{
+    text-align: center;
+}
+
+.show {display:block;}
+
+.deco{
+    background: #bbb;
+}
+
+.link{
+    float: right;
+    max-width: 130px;
+}
